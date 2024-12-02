@@ -1,2 +1,2 @@
 # github_pratice
-learning the github
+learning the github.
